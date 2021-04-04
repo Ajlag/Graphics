@@ -1,0 +1,9 @@
+C:\Users\Ajla\Desktop\Racunarska grafika\Sat\Sat\bin\Debug\Sat.exe.config
+C:\Users\Ajla\Desktop\Racunarska grafika\Sat\Sat\bin\Debug\Sat.exe
+C:\Users\Ajla\Desktop\Racunarska grafika\Sat\Sat\bin\Debug\Sat.pdb
+C:\Users\Ajla\Desktop\Racunarska grafika\Sat\Sat\obj\Debug\Sat.csprojResolveAssemblyReference.cache
+C:\Users\Ajla\Desktop\Racunarska grafika\Sat\Sat\obj\Debug\Sat.Form1.resources
+C:\Users\Ajla\Desktop\Racunarska grafika\Sat\Sat\obj\Debug\Sat.Properties.Resources.resources
+C:\Users\Ajla\Desktop\Racunarska grafika\Sat\Sat\obj\Debug\Sat.csproj.GenerateResource.Cache
+C:\Users\Ajla\Desktop\Racunarska grafika\Sat\Sat\obj\Debug\Sat.exe
+C:\Users\Ajla\Desktop\Racunarska grafika\Sat\Sat\obj\Debug\Sat.pdb
