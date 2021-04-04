@@ -1,0 +1,9 @@
+C:\Users\Ajla\Desktop\Racunarska grafika\DomaciCoveculjak\DomaciCoveculjak\bin\Debug\DomaciCoveculjak.exe.config
+C:\Users\Ajla\Desktop\Racunarska grafika\DomaciCoveculjak\DomaciCoveculjak\obj\Debug\DomaciCoveculjak.csprojResolveAssemblyReference.cache
+C:\Users\Ajla\Desktop\Racunarska grafika\DomaciCoveculjak\DomaciCoveculjak\obj\Debug\DomaciCoveculjak.Form1.resources
+C:\Users\Ajla\Desktop\Racunarska grafika\DomaciCoveculjak\DomaciCoveculjak\obj\Debug\DomaciCoveculjak.Properties.Resources.resources
+C:\Users\Ajla\Desktop\Racunarska grafika\DomaciCoveculjak\DomaciCoveculjak\obj\Debug\DomaciCoveculjak.csproj.GenerateResource.Cache
+C:\Users\Ajla\Desktop\Racunarska grafika\DomaciCoveculjak\DomaciCoveculjak\bin\Debug\DomaciCoveculjak.exe
+C:\Users\Ajla\Desktop\Racunarska grafika\DomaciCoveculjak\DomaciCoveculjak\bin\Debug\DomaciCoveculjak.pdb
+C:\Users\Ajla\Desktop\Racunarska grafika\DomaciCoveculjak\DomaciCoveculjak\obj\Debug\DomaciCoveculjak.exe
+C:\Users\Ajla\Desktop\Racunarska grafika\DomaciCoveculjak\DomaciCoveculjak\obj\Debug\DomaciCoveculjak.pdb
