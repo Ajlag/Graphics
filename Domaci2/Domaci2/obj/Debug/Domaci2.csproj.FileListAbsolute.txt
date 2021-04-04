@@ -1,0 +1,9 @@
+C:\Users\Ajla\Desktop\Racunarska grafika\Domaci2\Domaci2\bin\Debug\Domaci2.exe.config
+C:\Users\Ajla\Desktop\Racunarska grafika\Domaci2\Domaci2\bin\Debug\Domaci2.exe
+C:\Users\Ajla\Desktop\Racunarska grafika\Domaci2\Domaci2\bin\Debug\Domaci2.pdb
+C:\Users\Ajla\Desktop\Racunarska grafika\Domaci2\Domaci2\obj\Debug\Domaci2.csprojResolveAssemblyReference.cache
+C:\Users\Ajla\Desktop\Racunarska grafika\Domaci2\Domaci2\obj\Debug\Domaci2.Form1.resources
+C:\Users\Ajla\Desktop\Racunarska grafika\Domaci2\Domaci2\obj\Debug\Domaci2.Properties.Resources.resources
+C:\Users\Ajla\Desktop\Racunarska grafika\Domaci2\Domaci2\obj\Debug\Domaci2.csproj.GenerateResource.Cache
+C:\Users\Ajla\Desktop\Racunarska grafika\Domaci2\Domaci2\obj\Debug\Domaci2.exe
+C:\Users\Ajla\Desktop\Racunarska grafika\Domaci2\Domaci2\obj\Debug\Domaci2.pdb
