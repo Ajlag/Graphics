@@ -1,0 +1,11 @@
+C:\Users\Ajla\Desktop\Racunarska grafika\DressUpProject\DressUpProject\bin\Debug\DressUpProject.exe.config
+C:\Users\Ajla\Desktop\Racunarska grafika\DressUpProject\DressUpProject\bin\Debug\DressUpProject.exe
+C:\Users\Ajla\Desktop\Racunarska grafika\DressUpProject\DressUpProject\bin\Debug\DressUpProject.pdb
+C:\Users\Ajla\Desktop\Racunarska grafika\DressUpProject\DressUpProject\obj\Debug\DressUpProject.csprojResolveAssemblyReference.cache
+C:\Users\Ajla\Desktop\Racunarska grafika\DressUpProject\DressUpProject\obj\Debug\DressUpProject.Form1.resources
+C:\Users\Ajla\Desktop\Racunarska grafika\DressUpProject\DressUpProject\obj\Debug\DressUpProject.Properties.Resources.resources
+C:\Users\Ajla\Desktop\Racunarska grafika\DressUpProject\DressUpProject\obj\Debug\DressUpProject.csproj.GenerateResource.Cache
+C:\Users\Ajla\Desktop\Racunarska grafika\DressUpProject\DressUpProject\obj\Debug\DressUpProject.exe
+C:\Users\Ajla\Desktop\Racunarska grafika\DressUpProject\DressUpProject\obj\Debug\DressUpProject.pdb
+C:\Users\Ajla\Desktop\Racunarska grafika\DressUpProject\DressUpProject\obj\Debug\DressUpProject.Dress.resources
+C:\Users\Ajla\Desktop\Racunarska grafika\DressUpProject\DressUpProject\obj\Debug\DressUpProject.Majice.resources

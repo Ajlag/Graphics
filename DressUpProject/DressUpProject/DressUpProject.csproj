@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CBD1A8DC-7648-419E-9B1A-6A9AD318FA45}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DressUpProject</RootNamespace>
+    <AssemblyName>DressUpProject</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dress.Designer.cs">
+      <DependentUpon>Dress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Majice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Majice.Designer.cs">
+      <DependentUpon>Majice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Dress.resx">
+      <DependentUpon>Dress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Majice.resx">
+      <DependentUpon>Majice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dress.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbfbba809235db6c46060f4cb83f6528.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\poz.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pozzz.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\room.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hair-icon-png-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\86387.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\majica.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pants-icon-png-16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shoe-icon-png-10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bb6e19f1e97270b4c9604f6d54c8bd92-women-t-shirt-flat-icon-by-vexels.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lutka.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2021_4_2_13_53_19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Project %287%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Project %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\haljina3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Project %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Project %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Project.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Project %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\haljinacela1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\majica1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\majica2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\majica3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pant1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pant2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pant3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cipele3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cipele2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cipele1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\glutk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\glutk1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\glutk2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drugahaljina.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trecahaljina.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newpant1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newpant2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\majica4.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
